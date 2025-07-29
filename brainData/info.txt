@@ -1,0 +1,3 @@
+pseudo-elastic stress-deformation tuples and uncertainty for human cortex tissue (gray matter) 
+of Budday et al., ‘Mechanical characterization of human brain tissue’, Acta Biomaterialia, Jan. 2017 
+as provided in Table 1, Linka et al., ‘Automated model discovery for human brain using Constitutive Artificial Neural Networks’, Acta Biomaterialia, Apr. 2023.
