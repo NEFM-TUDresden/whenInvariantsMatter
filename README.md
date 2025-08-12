@@ -3,6 +3,8 @@ This is a supplementary material to the paper
 "The role of the invariants in neural network-based modelling of incompressible hyperelasticity"
 by Franz Dammass, Karl A. Kalina and Markus Kästner.
 
+https://doi.org/10.1016/j.mechmat.2025.105443
+
 The code is provided under the CC BY-SA 4.0 license, see https://creativecommons.org/licenses/by-nc-sa/4.0/
 When you find this code useful, please cite the corresponding paper.
 
